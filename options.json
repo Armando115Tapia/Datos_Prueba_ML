@@ -1,200 +1,493 @@
 [
-    {
-        "description": "",
+    {   "id_test": 1,
+        "id_option": 1,
+        "description": "Si",
         "value": "",
-        "enabled": ""
+        "enabled": 1    },
+    {   "id_test": 1,
+        "id_option": 2,
+        "description": "No",
+        "value": "",
+        "enabled": 1    },
+    {   "id_test": 1,
+        "id_option": 1,
+        "description": "Si",
+        "value": "",
+        "enabled": 1    },
+    {   "id_test": 1,
+        "id_option": 2,
+        "description": "No",
+        "value": "",
+        "enabled": 1    },
+    {   "id_test": 2,
+        "id_option": 1,
+        "description": "Frenar",
+        "value": "",
+        "enabled": 1    },
+    {   "id_test": 2,
+        "id_option": 2,
+        "description": "Acelerar",
+        "value": "",
+        "enabled": 1    },
+    {   "id_test": 2,
+        "id_option": 3,
+        "description": "Nada",
+        "value": "",
+        "enabled": 1    },
+    {   "id_test": 2,
+        "id_option": 1,
+        "description": "Girar a la izquierda",
+        "value": "",
+        "enabled": 1    },
+    {   "id_test": 2,
+        "id_option": 2,
+        "description": "Girar a la derecha",
+        "value": "",
+        "enabled": 1    },
+    {   "id_test": 3,
+        "id_option": 1,
+        "description": "Frenar",
+        "value": "",
+        "enabled": 1    },
+    {   "id_test": 3,
+        "id_option": 2,
+        "description": "Acelerar",
+        "value": "",
+        "enabled": 1    },
+    {   "id_test": 3,
+        "id_option": 3,
+        "description": "Nada",
+        "value": "",
+        "enabled": 1    },
+    {   "id_test": 3,
+        "id_option": 1,
+        "description": "Si",
+        "value": "",
+        "enabled": 1    },
+    {   "id_test": 3,
+        "id_option": 2,
+        "description": "No",
+        "value": "",
+        "enabled": 1    },
+    {   "id_test": 3,
+        "id_option": 1,
+        "description": "Girar a la izquierda",
+        "value": "",
+        "enabled": 1    },
+    {   "id_test": 3,
+        "id_option": 2,
+        "description": "Girar a la derecha",
+        "value": "",
+        "enabled": 1    },
+    {   "id_test": 2,
+        "id_option": 1,
+        "description": "0",
+        "value": "",
+        "enabled": 1
     },
-    {
-        "description": "",
+    {   "id_test":2,
+        "id_option": 2,
+        "description": "0.2",
         "value": "",
-        "enabled": ""
+        "enabled": 1
     },
-    {
-        "description": "",
+    {   "id_test": 2,
+        "id_option": 3,
+        "description": "0.3",
         "value": "",
-        "enabled": ""
+        "enabled": 1
     },
-    {
-        "description": "",
+    {   "id_test": 2,
+        "id_option": 4,
+        "description": "0.4",
         "value": "",
-        "enabled": ""
+        "enabled": 1
     },
-    {
-        "description": "",
+    {   "id_test": 2,
+        "id_option": 5,
+        "description": "0.6",
         "value": "",
-        "enabled": ""
+        "enabled": 1
     },
-    {
-        "description": "",
+    {   "id_test": 1,
+        "id_option": 1,
+        "description": "Girar a la izquierda",
         "value": "",
-        "enabled": ""
+        "enabled": 1
     },
-    {
-        "description": "",
+    {   "id_test": 1,
+        "id_option": 2,
+        "description": "Girar a la derecha",
         "value": "",
-        "enabled": ""
+        "enabled": 1
     },
-    {
+    {   "id_test": 1,
+        "id_option": 1,
         "description": "",
         "value": "",
-        "enabled": ""
+        "enabled": 1
     },
-    {
-        "description": "",
+    {   "id_test": 1,
+        "id_option": 2,
+        "description": "1 hora",
         "value": "",
-        "enabled": ""
+        "enabled": 1
     },
-    {
-        "description": "",
+    {   "id_test": 1,
+        "id_option": 3,
+        "description": "Hasta la hora programada",
         "value": "",
-        "enabled": ""
+        "enabled": 1
     },
-    {
-        "description": "",
+    {   "id_test": 2,
+        "id_option": 1,
+        "description": "0",
         "value": "",
-        "enabled": ""
+        "enabled": 1
     },
-    {
-        "description": "",
+    {   "id_test": 2,
+        "id_option": 2,
+        "description": "0.2",
         "value": "",
-        "enabled": ""
+        "enabled": 1
     },
-    {
-        "description": "",
+    {   "id_test": 2,
+        "id_option": 3,
+        "description": "0.3",
         "value": "",
-        "enabled": ""
+        "enabled": 1
     },
-    {
-        "description": "",
+    {   
+        "id_test": 2,
+        "id_option": 4,
+        "description": "0.4",
         "value": "",
-        "enabled": ""
+        "enabled": 1
     },
-    {
-        "description": "",
+    { 
+        "id_test": 2,
+        "id_option": 5,
+        "description": "0.6",
         "value": "",
-        "enabled": ""
+        "enabled": 1
     },
-    {
-        "description": "",
+    {   "id_test": 3,
+        "id_option": 1,
+        "description": "Hasta que el bus se llene",
         "value": "",
-        "enabled": ""
+        "enabled": 1
     },
-    {
-        "description": "",
+    {   "id_test": 3,
+        "id_option": 2,
+        "description": "1 hora",
         "value": "",
-        "enabled": ""
+        "enabled": 1
     },
-    {
-        "description": "",
+    {   "id_test": 3,
+        "id_option": 3,
+        "description": "Hasta la hora programada",
         "value": "",
-        "enabled": ""
+        "enabled": 1
     },
-    {
-        "description": "",
+    { 
+        "id_test": 3,
+        "id_option": 1,
+        "description": "0",
         "value": "",
-        "enabled": ""
+        "enabled": 1
     },
-    {
-        "description": "",
+    {  
+        "id_test": 3,
+        "id_option": 2,
+        "description": "0.2",
         "value": "",
-        "enabled": ""
+        "enabled": 1
     },
-    {
-        "description": "",
+    {   
+        "id_test": 3,
+        "id_option": 3,
+        "description": "0.3",
         "value": "",
-        "enabled": ""
+        "enabled": 1
     },
-    {
-        "description": "",
+    {   
+        "id_test": 3,
+        "id_option": 4,
+        "description": "0.4",
         "value": "",
-        "enabled": ""
+        "enabled": 1
     },
-    {
-        "description": "",
+    {   
+        "id_test": 3,
+        "id_option": 5,
+        "description": "0.6",
         "value": "",
-        "enabled": ""
+        "enabled": 1
     },
-    {
-        "description": "",
+    {   
+        "id_test": 3,
+        "id_option": 1,
+        "description": "Si",
         "value": "",
-        "enabled": ""
+        "enabled": 1
     },
-    {
-        "description": "",
+    {   
+        "id_test": 3,
+        "id_option": 2,
+        "description": "No",
         "value": "",
-        "enabled": ""
+        "enabled": 1
     },
-    {
-        "description": "",
+    {   
+        "id_test": 3,
+        "id_option": 1,
+        "description": "Si",
         "value": "",
-        "enabled": ""
+        "enabled": 1
     },
-    {
-        "description": "",
+    {   
+        "id_test": 3,
+        "id_option": 2,
+        "description": "No",
         "value": "",
-        "enabled": ""
+        "enabled": 1
     },
-    {
-        "description": "",
+    {   
+        "id_test": 3,
+        "id_option": 1,
+        "description": "Parar",
         "value": "",
-        "enabled": ""
+        "enabled": 1
     },
-    {
-        "description": "",
+    {   
+        "id_test": 3,
+        "id_option": 2,
+        "description": "Acelerar",
         "value": "",
-        "enabled": ""
+        "enabled": 1
     },
-    {
-        "description": "",
+    {   
+        "id_test": 3,
+        "id_option": 3,
+        "description": "Pasar si se puede",
         "value": "",
-        "enabled": ""
-    },{
-        "description": "",
-        "value": "",
-        "enabled": ""
+        "enabled": 1
     },
-    {
-        "description": "",
+    {   
+        "id_test": 1,
+        "id_option": 1,
+        "description": "Puede pasar",
         "value": "",
-        "enabled": ""
+        "enabled": 1
     },
-    {
-        "description": "",
+    {   
+        "id_test": 1,
+        "id_option": 2,
+        "description": "No puede adelantar",
         "value": "",
-        "enabled": ""
+        "enabled": 1
     },
-    {
-        "description": "",
+    {   
+        "id_test": 1,
+        "id_option": 1,
+        "description": "Cambiar de carril frecuentemente",
         "value": "",
-        "enabled": ""
+        "enabled": 1
     },
-    {
-        "description": "",
+    {   
+        "id_test": 1,
+        "id_option": 2,
+        "description": "Mantener una distancia adecuada",
         "value": "",
-        "enabled": ""
-    },{
-        "description": "",
-        "value": "",
-        "enabled": ""
+        "enabled": 1
     },
-    {
-        "description": "",
+    {   
+        "id_test": 1,
+        "id_option": 3,
+        "description": "Seguir a los vehiculos de cerca",
         "value": "",
-        "enabled": ""
+        "enabled": 1
     },
-    {
-        "description": "",
+    {   
+        "id_test": 1,
+        "id_option": 1,
+        "description": "1m",
         "value": "",
-        "enabled": ""
+        "enabled": 1
     },
-    {
-        "description": "",
+    {   
+        "id_test": 1,
+        "id_option": 2,
+        "description": "2m",
         "value": "",
-        "enabled": ""
+        "enabled": 1
     },
-    {
-        "description": "",
+    {   
+        "id_test": 1,
+        "id_option": 3,
+        "description": "6m",
         "value": "",
-        "enabled": ""
+        "enabled": 1
+    },
+    {   
+        "id_test": 1,
+        "id_option": 4,
+        "description": "7m",
+        "value": "",
+        "enabled": 1
+    },
+    {   
+        "id_test": 1,
+        "id_option": 5,
+        "description": "9m",
+        "value": "",
+        "enabled": 1
+    },
+    {   
+        "id_test": 2,
+        "id_option": 1,
+        "description": "Frenar",
+        "value": "",
+        "enabled": 1
+    },
+    {   
+        "id_test": 2,
+        "id_option": 2,
+        "description": "Acelerar",
+        "value": "",
+        "enabled": 1
+    },
+    {   
+        "id_test": 2,
+        "id_option": 3,
+        "description": "Nada",
+        "value": "",
+        "enabled": 1
+    },
+    {   
+        "id_test": 2,
+        "id_option": 1,
+        "description": "Girar  a la izquierda",
+        "value": "",
+        "enabled": 1
+    },
+    {   
+        "id_test": 2,
+        "id_option": 2,
+        "description": "Girar a la derecha",
+        "value": "",
+        "enabled": 1
+    },
+    {   
+        "id_test": 2,
+        "id_option": 1,
+        "description": "En un paso cebra",
+        "value": "",
+        "enabled": 1
+    },
+    {   
+        "id_test": 2,
+        "id_option": 2,
+        "description": "En una carretera",
+        "value": "",
+        "enabled": 1
+    },
+    {   
+        "id_test": 2,
+        "id_option": 1,
+        "description": "1m",
+        "value": "",
+        "enabled": 1
+    },
+    {   
+        "id_test": 2,
+        "id_option": 2,
+        "description": "2m",
+        "value": "",
+        "enabled": 1
+    },
+    {   
+        "id_test": 2,
+        "id_option": 3,
+        "description": "6m",
+        "value": "",
+        "enabled": 1
+    },
+    {   
+        "id_test": 2,
+        "id_option": 4,
+        "description": "7m",
+        "value": "",
+        "enabled": 1
+    },
+    {   
+        "id_test": 2,
+        "id_option": 5,
+        "description": "9m",
+        "value": "",
+        "enabled": 1
+    },
+    {   
+        "id_test": 4,
+        "id_option": 1,
+        "description": "Frenar",
+        "value": "",
+        "enabled": 1
+    },
+    {   
+        "id_test": 4,
+        "id_option": 2,
+        "description": "Acelerar",
+        "value": "",
+        "enabled": 1
+    },
+    {   
+        "id_test": 4,
+        "id_option": 3,
+        "description": "Nada",
+        "value": "",
+        "enabled": 1
+    },
+    {   
+        "id_test": 4,
+        "id_option": 1,
+        "description": "Si",
+        "value": "",
+        "enabled": 1
+    },
+    {   
+        "id_test": 4,
+        "id_option": 2,
+        "description": "No",
+        "value": "",
+        "enabled": 1
+    },
+    {   
+        "id_test": 4,
+        "id_option": 1,
+        "description": "Girar a la izquierda",
+        "value": "",
+        "enabled": 1
+    },
+    {   
+        "id_test": 2,
+        "id_option": 2,
+        "description": "Girar a la derecha",
+        "value": "",
+        "enabled": 1
+    },
+    {   
+        "id_test": 4,
+        "id_option": 1,
+        "description": "En un paso cebra",
+        "value": "",
+        "enabled": 1
+    },
+    {   
+        "id_test": 4,
+        "id_option": 2,
+        "description": "En un carretera",
+        "value": "",
+        "enabled": 1
     }
 ]
