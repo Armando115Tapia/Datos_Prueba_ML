@@ -1,0 +1,95 @@
+[
+    {
+        "id_slide": 1,
+        "id_last_slide": null,
+        "id_next_slide": 2,
+        "description": "Semáforos",
+        "image_url": "",
+        "video_url": "",
+        "audio_url": "",
+        "duration": 120
+    },
+    {
+        "id_slide": 1,
+        "id_last_slide": null,
+        "id_next_slide": null,
+        "description": "Leyes",
+        "image_url": "",
+        "video_url": "",
+        "audio_url": "",
+        "duration": 180
+    },
+    {
+        "id_slide": 1,
+        "id_last_slide" :"",
+        "id_next_slide":"",
+        "description":"Estaciones",
+        "image_url":"",
+        "video_url":"",
+        "audio_url":"",
+        "duration":240
+    },
+    {
+        "id_slide": 1,
+        "id_last_slide": 2,
+        "id_next_slide": null,
+        "description": "Semáforos",
+        "image_url":"",
+        "video_url":"",
+        "audio_url":"",
+        "duration":240
+    },
+    {
+
+    },
+    {
+        "id_slide": 2,
+        "id_last_slide": 1,
+        "id_next_slide": 3,
+        "description": "Carretera",
+        "image_url":"",
+        "video_url":"",
+        "audio_url":"",
+        "duration": 150
+    },
+    {
+        "id_slide": 3,
+        "id_last_slide": 2,
+        "id_next_slide": null,
+        "description": "Peatones",
+        "image_url":"",
+        "video_url":"",
+        "audio_url":"",
+        "duration": 180
+    },
+    {
+        "id_slide": 2,
+        "id_last_slide": 1,
+        "id_next_slide": null,
+        "description": "Leyes",
+        "image_url":"",
+        "video_url":"",
+        "audio_url":"",
+        "duration": 250
+    },
+    {
+        "id_slide": 2,
+        "id_last_slide": 1,
+        "id_next_slide": 3,
+        "description": "Carretera",
+        "image_url":"",
+        "video_url":"",
+        "audio_url":"",
+        "duration": 250
+    },
+    {
+        "id_slide": 3,
+        "id_last_slide": 2,
+        "id_next_slide": null,
+        "description": "Peatones",
+        "image_url":"",
+        "video_url":"",
+        "audio_url":"",
+        "duration": 240
+    }
+]

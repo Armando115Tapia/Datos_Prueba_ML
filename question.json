@@ -1,0 +1,103 @@
+[
+    {
+        "id_slide": 1,
+        "id_question": 1,
+        "description": "Puede cruzar un semáforo en rojo?",
+        "value": "",
+        "enabled": ""
+    },
+    {
+        "id_slide": 2,
+        "id_question": 3,
+        "description": "Puede cruzar un semáforo en verde?",
+        "value": "",
+        "enabled": ""
+    },
+    {
+        "id_slide": 1,
+        "id_question": 2,
+        "description": "Qué se hace en una luz amarilla?",
+        "value": "",
+        "enabled": ""
+    },
+    {
+        "id_slide": 3,
+        "id_question": 4,
+        "description": "Qué significa la flecha ->?",
+        "value": "",
+        "enabled": ""
+    },
+    {
+        "id_slide": 1,
+        "id_question": 1,
+        "description": "Con cuanto grados de alcohol mínimos se puede conducir?",
+        "value": "",
+        "enabled": ""
+    },
+    {
+        "id_slide": 1,
+        "id_question": 1,
+        "description": "Cuanto tiempo debe permanecer en la estación?",
+        "value": "",
+        "enabled": ""
+    },
+    {
+        "id_slide": 1,
+        "id_question": 2,
+        "description": "Con cuanto grados de alcohol mínimos se puede conducir?",
+        "value": "",
+        "enabled": ""
+    },
+    {
+        "id_slide": 1,
+        "id_question": 1,
+        "description": "Qué significa la linea punteada?",
+        "value": "",
+        "enabled": ""
+    },
+    {
+        "id_slide": 1,
+        "id_question": 2,
+        "description": "Qué se debe hacer para evitar coliciones?",
+        "value": "",
+        "enabled": ""
+    },
+    {
+        "id_slide": 2,
+        "id_question": 3,
+        "description": "A cuántos metros se ubica el triangulo en caso de accidente?",
+        "value": "",
+        "enabled": ""
+    },
+    {
+        "id_slide": 2,
+        "id_question": 4,
+        "description": "Qué se hace en una luz amarilla?",
+        "value": "",
+        "enabled": ""
+    },
+    {
+        "id_slide": 3,
+        "id_question": 5,
+        "description": "Qué significa la flecha ->?",
+        "value": "",
+        "enabled": ""
+    },
+    {
+        "id_slide": 3,
+        "id_question": 6,
+        "description": "Cuándo tiene prioridad un peatón?",
+        "value": "",
+        "enabled": ""
+    },
+    {
+        "id_slide": 3,
+        "id_question": 2,
+        "description": "A cuántos metros se ubica el triangulo en caso de accidente?",
+        "value": "",
+        "enabled": ""
+    },
+    {
+
+    }
+]
