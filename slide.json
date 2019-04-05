@@ -24,8 +24,8 @@
     {
         "id_module": 1,
         "id_slide": 1,
-        "id_last_slide" : 0,
-        "id_next_slide": 0,
+        "id_last_slide" : null,
+        "id_next_slide": null,
         "description":"Estaciones",
         "image_url":"",
         "video_url":"",
@@ -35,7 +35,7 @@
     {
         "id_module": 1,
         "id_slide": 1,
-        "id_last_slide": 0,
+        "id_last_slide": null,
         "id_next_slide": 2,
         "description": "Semáforos",
         "image_url":"",
@@ -61,7 +61,7 @@
         "id_module":1,
         "id_slide": 3,
         "id_last_slide": 2,
-        "id_next_slide": 0,
+        "id_next_slide": null,
         "description": "Peatones",
         "image_url":"",
         "video_url":"",
