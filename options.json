@@ -3,568 +3,645 @@
         "id_option": 1,
         "description": "Si",
         "value": "",
-        "isAnswer":"",
-        "enabled": 1    },
+        "isAnswer": 0,
+        "enabled": 1    }
+        ,
     {   "id_question": 1,
         "id_option": 2,
         "description": "No",
         "value": "",
-        "isAnswer":"",
-        "enabled": 1    },
-    {   "id_question": 1,
-        "id_option": 1,
-        "description": "Si",
-        "value": "",
-        "isAnswer":"",
-        "enabled": 1    },
-    {   "id_question": 1,
-        "id_option": 2,
-        "description": "No",
-        "value": "",
-        "isAnswer":"",
-        "enabled": 1    },
-    {   "id_question": 2,
-        "id_option": 1,
-        "description": "Frenar",
-        "value": "",
-        "isAnswer":"",
-        "enabled": 1    },
-    {   "id_question": 2,
-        "id_option": 2,
-        "description": "Acelerar",
-        "value": "",
-        "isAnswer":"",
-        "enabled": 1    },
-    {   "id_question": 2,
-        "id_option": 3,
-        "description": "Nada",
-        "value": "",
-        "isAnswer":"",
-        "enabled": 1    },
-    {   "id_question": 2,
-        "id_option": 1,
-        "description": "Girar a la izquierda",
-        "value": "",
-        "isAnswer":"",
-        "enabled": 1    },
-    {   "id_question": 2,
-        "id_option": 2,
-        "description": "Girar a la derecha",
-        "value": "",
-        "isAnswer":"",
-        "enabled": 1    },
-    {   "id_question": 3,
-        "id_option": 1,
-        "description": "Frenar",
-        "value": "",
-        "isAnswer":"",
-        "enabled": 1    },
-    {   "id_question": 3,
-        "id_option": 2,
-        "description": "Acelerar",
-        "value": "",
-        "isAnswer":"",
-        "enabled": 1    },
-    {   "id_question": 3,
-        "id_option": 3,
-        "description": "Nada",
-        "value": "",
-        "isAnswer":"",
-        "enabled": 1    },
+        "isAnswer": 1,
+        "enabled": 1    }
+        ,
     {   "id_question": 3,
         "id_option": 1,
         "description": "Si",
         "value": "",
-        "isAnswer":"",
-        "enabled": 1    },
+        "isAnswer":1,
+        "enabled": 1    }
+        ,
     {   "id_question": 3,
         "id_option": 2,
         "description": "No",
         "value": "",
-        "isAnswer":"",
-        "enabled": 1    },
-    {   "id_question": 3,
+        "isAnswer": 0,
+        "enabled": 1    }
+        ,
+    {   "id_question": 2,
+        "id_option": 1,
+        "description": "Frenar",
+        "value": "",
+        "isAnswer": 1,
+        "enabled": 1    }
+        ,
+    {   "id_question": 2,
+        "id_option": 2,
+        "description": "Acelerar",
+        "value": "",
+        "isAnswer": 0,
+        "enabled": 1    }
+        ,
+    {   "id_question": 2,
+        "id_option": 3,
+        "description": "Nada",
+        "value": "",
+        "isAnswer": 0,
+        "enabled": 1    }
+        ,
+    {   "id_question": 4,
         "id_option": 1,
         "description": "Girar a la izquierda",
         "value": "",
-        "isAnswer":"",
-        "enabled": 1    },
-    {   "id_question": 3,
+        "isAnswer": 0,
+        "enabled": 1    }
+        ,
+    {   "id_question": 4,
         "id_option": 2,
         "description": "Girar a la derecha",
         "value": "",
-        "isAnswer":"",
-        "enabled": 1    },
+        "isAnswer": 1,
+        "enabled": 1    }
+        ,
     {   "id_question": 2,
         "id_option": 1,
-        "description": "0",
+        "description": "Frenar",
         "value": "",
-        "isAnswer":"",
-        "enabled": 1
-    },
-    {   "id_question":2,
+        "isAnswer": 1,
+        "enabled": 1    }
+        ,
+    {   "id_question": 2,
         "id_option": 2,
-        "description": "0.2",
+        "description": "Acelerar",
         "value": "",
-        "isAnswer":"",
-        "enabled": 1
-    },
+        "isAnswer": 0,
+        "enabled": 1    }
+        ,
     {   "id_question": 2,
         "id_option": 3,
-        "description": "0.3",
+        "description": "Nada",
         "value": "",
-        "isAnswer":"",
-        "enabled": 1
-    },
-    {   "id_question": 2,
-        "id_option": 4,
-        "description": "0.4",
+        "isAnswer": 0,
+        "enabled": 1    }
+        ,
+    {   "id_question": 3,
+        "id_option": 1,
+        "description": "Si",
         "value": "",
-        "isAnswer":"",
-        "enabled": 1
-    },
-    {   "id_question": 2,
-        "id_option": 5,
-        "description": "0.6",
+        "isAnswer": 1,
+        "enabled": 1    }
+        ,
+    {   "id_question": 3,
+        "id_option": 2,
+        "description": "No",
         "value": "",
-        "isAnswer":"",
-        "enabled": 1
-    },
-    {   "id_question": 1,
+        "isAnswer": 0,
+        "enabled": 1    }
+        ,
+    {   "id_question": 4,
         "id_option": 1,
         "description": "Girar a la izquierda",
         "value": "",
-        "isAnswer":"",
-        "enabled": 1
-    },
-    {   "id_question": 1,
+        "isAnswer": 0,
+        "enabled": 1    }
+        ,
+    {   "id_question": 4,
         "id_option": 2,
         "description": "Girar a la derecha",
         "value": "",
-        "isAnswer":"",
-        "enabled": 1
-    },
+        "isAnswer": 1,
+        "enabled": 1    }
+        ,
     {   "id_question": 1,
-        "id_option": 1,
-        "description": "",
-        "value": "",
-        "isAnswer":"",
-        "enabled": 1
-    },
-    {   "id_question": 1,
-        "id_option": 2,
-        "description": "1 hora",
-        "value": "",
-        "isAnswer":"",
-        "enabled": 1
-    },
-    {   "id_question": 1,
-        "id_option": 3,
-        "description": "Hasta la hora programada",
-        "value": "",
-        "isAnswer":"",
-        "enabled": 1
-    },
-    {   "id_question": 2,
         "id_option": 1,
         "description": "0",
         "value": "",
-        "isAnswer":"",
+        "isAnswer": 0,
         "enabled": 1
+    
     },
-    {   "id_question": 2,
+    {   "id_question": 1,
         "id_option": 2,
         "description": "0.2",
         "value": "",
-        "isAnswer":"",
+        "isAnswer":0,
         "enabled": 1
+    
     },
-    {   "id_question": 2,
+    {   "id_question": 1,
         "id_option": 3,
         "description": "0.3",
         "value": "",
-        "isAnswer":"",
+        "isAnswer":  0,
         "enabled": 1
+    
     },
-    {   
-        "id_question": 2,
+    {   "id_question": 1,
         "id_option": 4,
         "description": "0.4",
         "value": "",
-        "isAnswer":"",
+        "isAnswer": 1,
         "enabled": 1
+    
     },
-    { 
-        "id_question": 2,
+    {   "id_question": 1,
         "id_option": 5,
         "description": "0.6",
         "value": "",
-        "isAnswer":"",
+        "isAnswer": 0,
         "enabled": 1
+    
     },
-    {   "id_question": 3,
+    {   "id_question": 2,
+        "id_option": 1,
+        "description": "Girar a la izquierda",
+        "value": "",
+        "isAnswer": 0,
+        "enabled": 1
+    
+    },
+    {   "id_question": 2,
+        "id_option": 2,
+        "description": "Girar a la derecha",
+        "value": "",
+        "isAnswer": 1,
+        "enabled": 1
+    
+    },
+    {   "id_question": 1,
         "id_option": 1,
         "description": "Hasta que el bus se llene",
         "value": "",
-        "isAnswer":"",
+        "isAnswer": 0,
         "enabled": 1
+    
     },
-    {   "id_question": 3,
+    {   "id_question": 1,
         "id_option": 2,
         "description": "1 hora",
         "value": "",
-        "isAnswer":"",
+        "isAnswer": 0,
         "enabled": 1
+    
     },
-    {   "id_question": 3,
+    {   "id_question": 1,
         "id_option": 3,
         "description": "Hasta la hora programada",
         "value": "",
-        "isAnswer":"",
+        "isAnswer": 1,
         "enabled": 1
+    
     },
-    { 
-        "id_question": 3,
+    {   "id_question": 2,
         "id_option": 1,
         "description": "0",
         "value": "",
-        "isAnswer":"",
+        "isAnswer": 0,
         "enabled": 1
+    
     },
-    {  
-        "id_question": 3,
+    {   "id_question": 2,
         "id_option": 2,
         "description": "0.2",
         "value": "",
-        "isAnswer":"",
+        "isAnswer": 0,
         "enabled": 1
+    
     },
-    {   
-        "id_question": 3,
+    {   "id_question": 2,
         "id_option": 3,
         "description": "0.3",
         "value": "",
-        "isAnswer":"",
+        "isAnswer": 0,
         "enabled": 1
+    
     },
     {   
-        "id_question": 3,
+        "id_question": 2,
         "id_option": 4,
         "description": "0.4",
         "value": "",
-        "isAnswer":"",
+        "isAnswer": 1,
         "enabled": 1
+    
     },
-    {   
-        "id_question": 3,
+    { 
+        "id_question": 2,
         "id_option": 5,
         "description": "0.6",
         "value": "",
-        "isAnswer":"",
+        "isAnswer":0,
         "enabled": 1
+    
+    },
+    {   "id_question": 1,
+        "id_option": 1,
+        "description": "Hasta que el bus se llene",
+        "value": "",
+        "isAnswer": 0,
+        "enabled": 1
+    
+    },
+    {   "id_question": 1,
+        "id_option": 2,
+        "description": "1 hora",
+        "value": "",
+        "isAnswer": 0,
+        "enabled": 1
+    
+    },
+    {   "id_question": 1,
+        "id_option": 3,
+        "description": "Hasta la hora programada",
+        "value": "",
+        "isAnswer": 1,
+        "enabled": 1
+    
+    },
+    { 
+        "id_question": 2,
+        "id_option": 1,
+        "description": "0",
+        "value": "",
+        "isAnswer": 0,
+        "enabled": 1
+    
+    },
+    {  
+        "id_question": 2,
+        "id_option": 2,
+        "description": "0.2",
+        "value": "",
+        "isAnswer": 0,
+        "enabled": 1
+    
     },
     {   
-        "id_question": 3,
+        "id_question": 2,
+        "id_option": 3,
+        "description": "0.3",
+        "value": "",
+        "isAnswer": 0,
+        "enabled": 1
+    
+    },
+    {   
+        "id_question": 2,
+        "id_option": 4,
+        "description": "0.4",
+        "value": "",
+        "isAnswer": 1,
+        "enabled": 1
+    
+    },
+    {   
+        "id_question": 2,
+        "id_option": 5,
+        "description": "0.6",
+        "value": "",
+        "isAnswer": 0,
+        "enabled": 1
+    
+    },
+    {   
+        "id_question": 7,
         "id_option": 1,
         "description": "Si",
         "value": "",
-        "isAnswer":"",
+        "isAnswer": 0,
         "enabled": 1
+    
     },
     {   
-        "id_question": 3,
+        "id_question": 7,
         "id_option": 2,
         "description": "No",
         "value": "",
-        "isAnswer":"",
+        "isAnswer": 1,
         "enabled": 1
+    
     },
     {   
-        "id_question": 3,
+        "id_question": 8,
         "id_option": 1,
         "description": "Si",
         "value": "",
-        "isAnswer":"",
+        "isAnswer": 1,
         "enabled": 1
+    
     },
     {   
-        "id_question": 3,
+        "id_question": 8,
         "id_option": 2,
         "description": "No",
-        "value": "",
+        "value": 0,
         "isAnswer":"",
         "enabled": 1
+    
     },
     {   
-        "id_question": 3,
+        "id_question": 9,
         "id_option": 1,
         "description": "Parar",
         "value": "",
-        "isAnswer":"",
+        "isAnswer": 0,
         "enabled": 1
+    
     },
     {   
-        "id_question": 3,
+        "id_question": 9,
         "id_option": 2,
         "description": "Acelerar",
         "value": "",
-        "isAnswer":"",
+        "isAnswer": 0,
         "enabled": 1
+    
     },
     {   
-        "id_question": 3,
+        "id_question": 9,
         "id_option": 3,
         "description": "Pasar si se puede",
         "value": "",
-        "isAnswer":"",
+        "isAnswer": 1,
         "enabled": 1
+    
     },
     {   
         "id_question": 1,
         "id_option": 1,
-        "description": "Puede pasar",
+        "description": "Puede adelantar",
         "value": "",
-        "isAnswer":"",
+        "isAnswer": 1,
         "enabled": 1
+    
     },
     {   
         "id_question": 1,
         "id_option": 2,
         "description": "No puede adelantar",
         "value": "",
-        "isAnswer":"",
+        "isAnswer": 0,
         "enabled": 1
+    
     },
     {   
-        "id_question": 1,
+        "id_question": 2,
         "id_option": 1,
         "description": "Cambiar de carril frecuentemente",
         "value": "",
-        "isAnswer":"",
+        "isAnswer": 0,
         "enabled": 1
+    
     },
     {   
-        "id_question": 1,
+        "id_question": 2,
         "id_option": 2,
         "description": "Mantener una distancia adecuada",
         "value": "",
-        "isAnswer":"",
+        "isAnswer": 1,
         "enabled": 1
+    
     },
     {   
-        "id_question": 1,
+        "id_question": 2,
         "id_option": 3,
         "description": "Seguir a los vehiculos de cerca",
         "value": "",
-        "isAnswer":"",
+        "isAnswer": 1,
         "enabled": 1
+    
     },
     {   
-        "id_question": 1,
+        "id_question": 3,
         "id_option": 1,
         "description": "1m",
         "value": "",
-        "isAnswer":"",
+        "isAnswer": 0,
         "enabled": 1
+    
     },
     {   
-        "id_question": 1,
+        "id_question": 3,
         "id_option": 2,
         "description": "2m",
         "value": "",
-        "isAnswer":"",
+        "isAnswer": 0,
         "enabled": 1
+    
     },
     {   
-        "id_question": 1,
+        "id_question": 3,
         "id_option": 3,
         "description": "6m",
         "value": "",
-        "isAnswer":"",
+        "isAnswer": 0,
         "enabled": 1
+    
     },
     {   
-        "id_question": 1,
+        "id_question": 3,
         "id_option": 4,
         "description": "7m",
         "value": "",
-        "isAnswer":"",
+        "isAnswer": 0,
         "enabled": 1
+    
     },
     {   
-        "id_question": 1,
+        "id_question": 3,
         "id_option": 5,
         "description": "9m",
         "value": "",
-        "isAnswer":"",
+        "isAnswer": 0,
         "enabled": 1
+    
     },
     {   
-        "id_question": 2,
+        "id_question": 4,
         "id_option": 1,
         "description": "Frenar",
         "value": "",
-        "isAnswer":"",
+        "isAnswer": 1,
         "enabled": 1
+    
     },
     {   
-        "id_question": 2,
+        "id_question": 4,
         "id_option": 2,
         "description": "Acelerar",
         "value": "",
-        "isAnswer":"",
+        "isAnswer": 0,
         "enabled": 1
+    
     },
     {   
-        "id_question": 2,
+        "id_question": 4,
         "id_option": 3,
         "description": "Nada",
         "value": "",
-        "isAnswer":"",
+        "isAnswer": 0,
         "enabled": 1
+    
     },
     {   
-        "id_question": 2,
+        "id_question": 5,
         "id_option": 1,
         "description": "Girar  a la izquierda",
         "value": "",
-        "isAnswer":"",
+        "isAnswer": 0,
         "enabled": 1
+    
     },
     {   
-        "id_question": 2,
+        "id_question": 5,
         "id_option": 2,
         "description": "Girar a la derecha",
         "value": "",
-        "isAnswer":"",
+        "isAnswer": 1,
         "enabled": 1
+    
     },
     {   
-        "id_question": 2,
+        "id_question": 6,
         "id_option": 1,
         "description": "En un paso cebra",
         "value": "",
-        "isAnswer":"",
+        "isAnswer": 1,
         "enabled": 1
+    
     },
     {   
-        "id_question": 2,
+        "id_question": 6,
         "id_option": 2,
         "description": "En una carretera",
         "value": "",
-        "isAnswer":"",
+        "isAnswer": 0,
         "enabled": 1
+    
     },
     {   
-        "id_question": 2,
+        "id_question": 3,
         "id_option": 1,
         "description": "1m",
         "value": "",
-        "isAnswer":"",
+        "isAnswer": 0,
         "enabled": 1
+    
     },
     {   
-        "id_question": 2,
+        "id_question": 3,
         "id_option": 2,
         "description": "2m",
         "value": "",
-        "isAnswer":"",
+        "isAnswer": 0,
         "enabled": 1
+    
     },
     {   
-        "id_question": 2,
+        "id_question": 3,
         "id_option": 3,
         "description": "6m",
         "value": "",
-        "isAnswer":"",
+        "isAnswer":0,
         "enabled": 1
+    
     },
     {   
-        "id_question": 2,
+        "id_question": 3,
         "id_option": 4,
         "description": "7m",
         "value": "",
-        "isAnswer":"",
+        "isAnswer":0,
         "enabled": 1
+    
     },
     {   
-        "id_question": 2,
+        "id_question": 3,
         "id_option": 5,
         "description": "9m",
         "value": "",
-        "isAnswer":"",
+        "isAnswer": 0,
         "enabled": 1
+    
     },
     {   
         "id_question": 4,
         "id_option": 1,
         "description": "Frenar",
         "value": "",
-        "isAnswer":"",
+        "isAnswer": 1,
         "enabled": 1
+    
     },
     {   
         "id_question": 4,
         "id_option": 2,
         "description": "Acelerar",
         "value": "",
-        "isAnswer":"",
+        "isAnswer": 0,
         "enabled": 1
+    
     },
     {   
         "id_question": 4,
         "id_option": 3,
         "description": "Nada",
         "value": "",
-        "isAnswer":"",
+        "isAnswer": 0,
         "enabled": 1
+    
     },
     {   
-        "id_question": 4,
+        "id_question": 8,
         "id_option": 1,
         "description": "Si",
         "value": "",
-        "isAnswer":"",
+        "isAnswer": 1,
         "enabled": 1
+    
     },
     {   
-        "id_question": 4,
+        "id_question": 8,
         "id_option": 2,
         "description": "No",
         "value": "",
-        "isAnswer":"",
+        "isAnswer": 0,
         "enabled": 1
+    
     },
     {   
-        "id_question": 4,
+        "id_question": 5,
         "id_option": 1,
         "description": "Girar a la izquierda",
         "value": "",
-        "isAnswer":"",
+        "isAnswer": 0,
         "enabled": 1
+    
     },
     {   
-        "id_question": 2,
+        "id_question": 5,
         "id_option": 2,
         "description": "Girar a la derecha",
         "value": "",
-        "isAnswer":"",
+        "isAnswer": 1,
         "enabled": 1
+    
     },
     {   
-        "id_question": 4,
+        "id_question": 6,
         "id_option": 1,
         "description": "En un paso cebra",
         "value": "",
-        "isAnswer":"",
+        "isAnswer": 1,
         "enabled": 1
+    
     },
     {   
-        "id_question": 4,
+        "id_question": 6,
         "id_option": 2,
         "description": "En un carretera",
         "value": "",
-        "isAnswer":"",
+        "isAnswer":0,
         "enabled": 1
+    
     }
 ]
