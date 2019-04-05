@@ -1,5 +1,6 @@
 [
     {
+        "id_module": 1,
         "id_slide": 1,
         "id_last_slide": null,
         "id_next_slide": 2,
@@ -10,6 +11,7 @@
         "duration": 120
     },
     {
+        "id_module": 2,
         "id_slide": 1,
         "id_last_slide": null,
         "id_next_slide": null,
@@ -20,9 +22,10 @@
         "duration": 180
     },
     {
+        "id_module": 1,
         "id_slide": 1,
-        "id_last_slide" :"",
-        "id_next_slide":"",
+        "id_last_slide" : 0,
+        "id_next_slide": 0,
         "description":"Estaciones",
         "image_url":"",
         "video_url":"",
@@ -30,9 +33,10 @@
         "duration":240
     },
     {
+        "id_module": 1,
         "id_slide": 1,
-        "id_last_slide": 2,
-        "id_next_slide": null,
+        "id_last_slide": 0,
+        "id_next_slide": 2,
         "description": "Semáforos",
         "image_url":"",
         "video_url":"",
@@ -43,6 +47,7 @@
 
     },
     {
+        "id_module": 1,
         "id_slide": 2,
         "id_last_slide": 1,
         "id_next_slide": 3,
@@ -53,9 +58,10 @@
         "duration": 150
     },
     {
+        "id_module":1,
         "id_slide": 3,
         "id_last_slide": 2,
-        "id_next_slide": null,
+        "id_next_slide": 0,
         "description": "Peatones",
         "image_url":"",
         "video_url":"",
@@ -63,6 +69,7 @@
         "duration": 180
     },
     {
+        "id_module":1,
         "id_slide": 2,
         "id_last_slide": 1,
         "id_next_slide": null,
@@ -73,6 +80,7 @@
         "duration": 250
     },
     {
+        "id_module": 1,
         "id_slide": 2,
         "id_last_slide": 1,
         "id_next_slide": 3,
@@ -83,6 +91,7 @@
         "duration": 250
     },
     {
+        "id_module": 1,
         "id_slide": 3,
         "id_last_slide": 2,
         "id_next_slide": null,
