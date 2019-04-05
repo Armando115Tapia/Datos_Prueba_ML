@@ -3,99 +3,99 @@
     {   "id_module": 1,
         "id_pretest": 1,
         "name": "Pretest1",
-        "habilitado": "",
+        "habilitado": 1,
         "type": "pretest",
         "order": "",
-        "max_time":""
+        "max_time": 2
     },
     {   "id_module": 1,
         "id_pretest": 2,
         "name": "Pretest2",
-        "habilitado": "",
+        "habilitado": 1,
         "type": "pretest",
         "order": "",
-        "max_time":""
-    },
-    {   "id_module": 2,
-        "id_pretest": 2,
-        "name": "Pretest1",
-        "habilitado": "",
-        "type": "pretest",
-        "order": "",
-        "max_time":""
+        "max_time":2
     },
     {   "id_module": 1,
         "id_pretest": 2,
-        "name": "Pretest2",
-        "habilitado": "",
-        "type": "pretest",
-        "order": "",
-        "max_time":""
-    },
-    {   "id_module":1,
-        "id_pretest": 3,        
         "name": "Pretest1",
-        "habilitado": "",
+        "habilitado": 1,
         "type": "pretest",
         "order": "",
-        "max_time":""
-    },
-    {   "id_module":1,
-        "id_pretest": 1,
-        "name": "Pretest2",
-        "habilitado": "",
-        "type": "pretest",
-        "order": "",
-        "max_time":""
+        "max_time": 1
     },
     {   "id_module": 1,
         "id_pretest": 1,
-        "name": "Pretest2",
-        "habilitado": "",
+        "name": "Pretest1",
+        "habilitado": 1,
         "type": "pretest",
         "order": "",
-        "max_time":""
+        "max_time": 2
+    },
+    {   "id_module":1,
+        "id_pretest": 2,        
+        "name": "Pretest2",
+        "habilitado": 1,
+        "type": "pretest",
+        "order": "",
+        "max_time":2
+    },
+    {   "id_module":1,
+        "id_pretest": 3,
+        "name": "Pretest1",
+        "habilitado": 1,
+        "type": "pretest",
+        "order": "",
+        "max_time": 1
+    },
+    {   "id_module": 1,
+        "id_pretest": 1,
+        "name": "Pretest2",
+        "habilitado": 1,
+        "type": "pretest",
+        "order": "",
+        "max_time": 2
     },
     {   "id_module": 1,
         "id_pretest": 2,
         "name": "Pretest3",
-        "habilitado": "",
+        "habilitado": 1,
         "type": "pretest",
         "order": "",
-        "max_time":""
+        "max_time": 2
     },
 
     {   "id_module": 1,
         "id_test": 3,
         "name": "Test1",
-        "habilitado": "",
+        "habilitado": 1,
         "type": "test",
         "order": "",
-        "max_time":""
+        "max_time": 1
     },
     {   "id_module": 2,
         "id_test": 1,
         "name": "Test2",
-        "habilitado": "",
+        "habilitado": 1,
         "type": "test",
         "order": "",
-        "max_time":""
+        "max_time": 2
     },
     {   "id_module": 1,
         "id_test": 3,
         "name": "Test3",
-        "habilitado": "",
+        "habilitado": 1,
         "type": "test",
         "order": "",
-        "max_time":""
+        "max_time": 2
     },
     {   "id_module": 1,
         "id_test": 4,
         "name": "Test4",
-        "habilitado": "",
+        "habilitado": 1,
         "type": "test",
         "order": "",
-        "max_time":""
+        "max_time": 3
     }
 
 
