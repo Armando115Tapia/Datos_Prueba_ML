@@ -44,7 +44,15 @@
         "duration":240
     },
     {
-
+        "id_module": 1,
+        "id_slide": 1,
+        "id_last_slide": "",
+        "id_next_slide":"",
+        "description": "",
+        "image_url":"",
+        "video_url":"",
+        "audio_url":"",
+        "duration": 0
     },
     {
         "id_module": 1,
