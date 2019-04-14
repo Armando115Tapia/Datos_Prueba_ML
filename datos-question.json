@@ -2,28 +2,28 @@
     {
         "id_slide": 1,
         "id_question": 1,
-        "description": "Puede cruzar un semáforo en rojo?",
+        "description": "Can you cross a red traffic light?",
         "value": "",
         "enabled": ""
     },
     {
         "id_slide": 2,
         "id_question": 3,
-        "description": "Puede cruzar un semáforo en verde?",
+        "description": "Can you cross a green traffic light?",
         "value": "",
         "enabled": ""
     },
     {
         "id_slide": 1,
         "id_question": 2,
-        "description": "Qué se hace en una luz amarilla?",
+        "description": "What do a yellow light make?",
         "value": "",
         "enabled": ""
     },
     {
         "id_slide": 3,
         "id_question": 4,
-        "description": "Qué significa la flecha ->?",
+        "description": "What is meaning of the arrow ->?",
         "value": "",
         "enabled": ""
     },
@@ -37,7 +37,7 @@
     {
         "id_slide": 1,
         "id_question": 1,
-        "description": "Cuanto tiempo debe permanecer en la estación?",
+        "description": "How long time should you stay at the station?",
         "value": "",
         "enabled": ""
     },
@@ -51,14 +51,14 @@
     {
         "id_slide": 1,
         "id_question": 1,
-        "description": "Qué significa la linea punteada?",
+        "description": "What is meaning dotted line?",
         "value": "",
         "enabled": ""
     },
     {
         "id_slide": 1,
         "id_question": 2,
-        "description": "Qué se debe hacer para evitar coliciones?",
+        "description": "what do you make to avoid collisions?",
         "value": "",
         "enabled": ""
     },
@@ -72,14 +72,14 @@
     {
         "id_slide": 2,
         "id_question": 4,
-        "description": "Qué se hace en una luz amarilla?",
+        "description": "What do a yellow light make?",
         "value": "",
         "enabled": ""
     },
     {
         "id_slide": 3,
         "id_question": 5,
-        "description": "Qué significa la flecha ->?",
+        "description": "What is meaning of the arrow ->?",
         "value": "",
         "enabled": ""
     },
@@ -101,35 +101,35 @@
     {
         "id_slide":1,
         "id_question":2,
-        "description": "Qué se hace en una luz amarilla?",
+        "description": "What do a yellow light make?",
         "value": "",
         "enabled": ""
     },
     {
         "id_slide":2,
         "id_question":3,
-        "description": "Puede cruzar un semafor en verde?",
+        "description": "Can you cross a green traffic light?",
         "value": "",
         "enabled": ""
     },
     {
         "id_slide":3,
         "id_question":4,
-        "description": "Qué significa la flecha ->?",
+        "description": "What is meaning of the arrow ->?",
         "value": "",
         "enabled": ""
     },
     {
         "id_slide":1,
         "id_question":2,
-        "description": "Qué significa la flecha ->?",
+        "description": "What is meaning of the arrow ->?",
         "value": "",
         "enabled": ""
     },
     {
         "id_slide":1,
         "id_question":1,
-        "description": "Cuanto tiempo debe permanecer en la estación?",
+        "description": "How long time should you stay at the station?",
         "value": "",
         "enabled": ""
     },
@@ -143,21 +143,21 @@
     {
         "id_slide":2,
         "id_question":4,
-        "description": "Qué se hace en una luz amarilla?",
+        "description": "What do a yellow light make",
         "value": "",
         "enabled": ""
     },
     {
         "id_slide":2,
         "id_question":8,
-        "description": "Puede cruzar un semáforo en verde?",
+        "description": "Can you cross a green traffic light?",
         "value": "",
         "enabled": ""
     },
     {
         "id_slide":3,
         "id_question":5,
-        "description": "Qué significa la flecha ->?",
+        "description": "What is meaning of the arrow ->?",
         "value": "",
         "enabled": ""
     },
